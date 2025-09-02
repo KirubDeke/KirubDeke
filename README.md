@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Flutter<br>🎯 Goals: Land remote opportunities and grow as a professional developer<br>🎲 Fun fact: I sometimes spend more time fixing bugs than writing code</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Flutter<br>🎯 Goals: Land remote opportunities and grow as a professional developer</p>
 
 ###
 
